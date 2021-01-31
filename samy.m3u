@@ -7,7 +7,7 @@ https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:0 ,HR - Hessischer Rundfunk
 http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
 #EXTINF:0 ,SWR Fernsehen RP HD
-https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master.m3u8?#X-Forwarded-For=91.63.136.21
+https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master.m3u8?
 #EXTINF:0 ,VOX
 http://188.195.58.187:8000/play/a02k
 #EXTINF:0 ,RTL HD
